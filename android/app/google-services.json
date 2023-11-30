@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "25099964769",
+    "project_id": "absoluter-server",
+    "storage_bucket": "absoluter-server.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25099964769:android:496d813c2a0feb42d87520",
+        "android_client_info": {
+          "package_name": "com.example.hotel_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALK5woXnu2I2QjkI2cthictfFycOrsxU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
